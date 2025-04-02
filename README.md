@@ -2,6 +2,8 @@
 
 A modern pizza ordering web application built with React, featuring a menu, cart functionality, and order management system.
 
+![Screenshot of the application](./public/screenshot-pizza.png)
+
 ## 🚀 Features
 
 - 🍕 Interactive pizza menu
