@@ -26,6 +26,7 @@ function CreateOrder() {
     address,
     error: errorAddress,
   } = useSelector((state) => state.user);
+
   const isLoadingAddress = addressStatus === "loading";
 
   const navigation = useNavigation();
