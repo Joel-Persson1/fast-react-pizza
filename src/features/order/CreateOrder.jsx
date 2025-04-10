@@ -165,7 +165,7 @@ export async function action({ request }) {
 
   store.dispatch(clearCart());
 
-  return redirect(`/fast-react-pizza/order/${newOrder.id}`);
+  return redirect(`/order/${newOrder.id}`);
 }
 
 export default CreateOrder;
